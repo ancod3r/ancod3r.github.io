@@ -303,7 +303,7 @@ svg {
   left: 0;
   top: 0;
   right: 0;
-  background: #09203a;
+  background: #0c002b;
 }
 
 #header.header-top .social-links, #header.header-top h2 {
@@ -509,7 +509,7 @@ section .container {
   display: flex;
   align-items: center;
   padding: 20px;
-  background: #09203a;
+  background: #0c002b;
   transition: ease-in-out 0.3s;
 }
 
@@ -682,7 +682,7 @@ section .container {
 --------------------------------------------------------------*/
 .services .icon-box {
   text-align: center;
-  background: #09203a;
+  background: #0c002b;
   padding: 40px 40px;
   transition: all ease-in-out 0.3s;
   margin: 10px;
@@ -921,7 +921,7 @@ section .container {
   color: #444444;
   padding: 20px;
   width: 100%;
-  background: #09203a;
+  background: #0c002b;
 }
 
 .contact .info-box i.bx {
@@ -976,7 +976,7 @@ section .container {
 
 .contact .php-email-form {
   padding: 30px;
-  background: #09203a;
+  background: #0c002b;
 }
 
 .contact .php-email-form .validate {
