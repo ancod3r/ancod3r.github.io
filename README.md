@@ -7,8 +7,7 @@ My portfolio website built using HTML, CSS, and JavaScript. You can check it out
 ## Screenshots
 
 <p float="center">
-    ![ancod3r](./Screenshots/1.png?raw=true "1")
-    <img src="https://github.com/ancod3r/ancod3r.github.io/tree/master/Screenshots/1.png" width="800">
+    <img src="https://github.com/ancod3r/ancod3r.github.io/blob/master/Screenshots/1.png" width="800">
 </p>
 
 
