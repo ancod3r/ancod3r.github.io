@@ -36,7 +36,7 @@ a:hover {
 
 img {
   user-select: none;
-  pointer-events: none;
+  pointer-events: auto;
   -drag: none;
   -moz-user-select: none;
   -ms-user-select: none;
