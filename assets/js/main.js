@@ -1,6 +1,5 @@
 !(function($) {
   "use strict";
-
   // Nav Menu
   $(document).on('click', '.nav-menu a, .mobile-nav a', function(e) {
     if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
@@ -150,6 +149,14 @@
   // Initiate venobox (lightbox feature used in portofilo)
   $(document).ready(function() {
     $('.venobox').venobox();
+    var $video = $('#background-video');
+    var $audio = $('#background-audio');
+    $video.on('play', function() {
+        if ($audio[0].paused) {
+            $audio[0].play().catch(function() {
+            });
+        }
+    });
   });
 
 })(jQuery);
