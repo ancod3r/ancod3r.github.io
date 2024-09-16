@@ -692,6 +692,12 @@ section .container {
   margin: 10px;
 }
 
+@media (max-width: 660px){
+	.services .icon-box{
+		margin: 0;
+	}
+}
+
 .services .icon-box .icon {
   margin: 0 auto;
   width: 64px;
