@@ -1,0 +1,21 @@
+# Operating System files (Junk files)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Code Editor configurations
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Optional: Environment variables (if you use API keys for contact forms)
+.env
+*.env.local
+
+# Optional: Local test servers or package management if you used npm for Bootstrap
+node_modules/
+dist/
+.sass-cache/
